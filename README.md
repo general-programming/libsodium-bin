@@ -1,1 +1,1 @@
-Bin distribution of LibSodium compatible with node-sodium
+Precompiled Windows Binaries of libsodium.
